@@ -1,3 +1,3 @@
 # practice1
-First Git Repository <br>
+<h1>First Git Repository</h1> <br>
 User - Atharva Rahate
